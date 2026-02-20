@@ -16,7 +16,7 @@
 
 ### ▶️ VM Setup Command
 
-```bash
+`` `bash
 bash <(curl -fsSL https://raw.githubusercontent.com/PROFFYT/idx-vps/main/vps.sh)
 ```
 
